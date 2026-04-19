@@ -1,0 +1,33 @@
+﻿Analyzing 4 items...                                            
+
+warning - The value of the field '_officialModeEnabled' isn't used - frontend\lib\views\pos\pos_screen.dart:54:8 - unused_field
+   info - Don't use 'BuildContext's across async gaps - frontend\lib\views\pos\pos_screen.dart:92:32 - use_build_context_synchronously
+   info - Unnecessary braces in a string interpolation - frontend\lib\views\pos\pos_screen.dart:184:39 - unnecessary_brace_in_string_interps
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:695:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:698:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:779:20 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1096:28 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - frontend\lib\views\pos\pos_screen.dart:1302:31 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - frontend\lib\views\pos\pos_screen.dart:1303:38 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1356:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1378:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1388:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1445:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1488:71 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1501:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1544:70 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - frontend\lib\views\pos\pos_screen.dart:1768:44 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - frontend\lib\views\pos\pos_screen.dart:1770:44 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1839:128 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1868:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1870:87 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:1891:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:2276:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:2278:92 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:2279:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - frontend\lib\views\pos\pos_screen.dart:2299:60 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - frontend\lib\views\pos\widgets\checkout_dialog.dart:149:23 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - frontend\lib\views\pos\widgets\checkout_dialog.dart:165:13 - use_build_context_synchronously
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - frontend\lib\views\pos\widgets\checkout_dialog.dart:320:15 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - frontend\lib\views\pos\widgets\checkout_dialog.dart:331:17 - deprecated_member_use
+
